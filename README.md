@@ -4,7 +4,7 @@ This repository contains a **Java Maven application integrated with a Jenkins CI
 The project demonstrates how to automate build and test processes using Jenkins
 whenever code is pushed to GitHub.
 
-This is a hands-on DevOps project focused on **Continuous Integration (CI)** best practices.
+This is a hands-on DevOps project focused on **Continuous Integration (CI)** best practices.!
 
 ---
 
