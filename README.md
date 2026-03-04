@@ -1,6 +1,6 @@
 # ☕ Java Maven CI Pipeline with Jenkins
 
-> Automating build, test, and reporting for a Java application using Jenkins CI and Maven.
+> Automating build, test, and reporting for a Java application using Jenkins CI and Maven..
 
 ---
 
